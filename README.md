@@ -6,9 +6,9 @@ Run EllipsoidMenuApp to see a menu that allows clients to read ellipsoid informa
 .txt should be formatted like:
 
 List Name
-Label
-Axis 1 length (a)
-Axis 2 length (b) 
-Axis 3 length (c)
-Label
-and so on...
+\nLabel
+\nAxis 1 length (a)
+\nAxis 2 length (b) 
+\nAxis 3 length (c)
+\nLabel
+\nand so on...
